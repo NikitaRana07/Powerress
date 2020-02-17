@@ -1,6 +1,8 @@
-# Wintathon 2020 Project -  by Team Autobots
+# Womenathon Project - Team Autobots
 
-## About Directories and Files
+# iPower
+
+## About Image Recognition Directories and Files
 - Original_dataset:
 It contains images folder which contains around 13000 images of people which we have used in our face recognition model training.
 
