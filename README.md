@@ -2,6 +2,8 @@
 ## - Team Autobots
 
 # iPower
+### Be a Powerress
+![Image description](a.png)
 ## About Image Recognition Directories and Files
 - Original_dataset:
 It contains images folder which contains around 13000 images of people which we have used in our face recognition model training.
