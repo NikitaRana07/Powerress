@@ -1,9 +1,7 @@
-# WOMENATHON by XX
-## - Team Autobots
+# WOMENATHON by XX - Team Autobots
 
-# iPower
-### Be a Powerress
-![Image description](a.png)
+# iPower - Be a Powerress
+![](undraw_connected_8wvi.png)
 ## About Image Recognition Directories and Files
 - Original_dataset:
 It contains images folder which contains around 13000 images of people which we have used in our face recognition model training.
