@@ -1,4 +1,7 @@
 # WOMENATHON by XX - Team Autobots
+* Nikita Rana
+* Priyasha Setia
+* Rishika Gupta
 
 # iPower - Be a Powerress
 ![](undraw_connected_8wvi.png)
