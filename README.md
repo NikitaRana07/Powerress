@@ -1,6 +1,4 @@
-# WOMENATHON by XX | Team Autobots
-**Nikita Rana, Priyasha Setia & Rishika Gupta**
-
+# POWERRESS
 # iPower - Be a Powerress
 ![](undraw_connected_8wvi.png)
 ## About Image Recognition Directories and Files
